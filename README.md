@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! I'm a Senior Full Stack developer & Founding Engineer, based in Chengdu, China · open to remote</h2>
+<h2 align="left">Hi 👋! I'm a Senior Full Stack developer & Founding Engineer, based in China · open to remote nationwide</h2>
 
 - 👀 I’m interested in fullstack web (TypeScript, React, Next.js, NestJS, Python / FastAPI, Go / Gin)
 - 💞️ I’m looking to collaborate on B2B platforms, multi-tenant Portal + Open API, and data products
 - 🌱 I’m currently learning Monorepo (Turborepo / Nx), Kubernetes, and agent tooling
-- 📫 How to reach me: [zhaonan266366@gmail.com](mailto:zhaonan266366@gmail.com) · Blog: [thefirstsunday.github.io](https://thefirstsunday.github.io/)
+- 📫 How to reach me: [zhaonan266366@gmail.com](mailto:zhaonan266366@gmail.com) · Website: [sundaydev.vercel.app](https://sundaydev.vercel.app/)
 - ⚡ Fun fact: 9 years shipping · led a 7-person team · looking for **Senior Fullstack** roles (React / Next.js + Node / Python / Go)
 
 Started as a frontend engineer (React / TypeScript), then grew into fullstack & Founding Engineer work: 0→1 multi-tenant Portal, auth / quotas / subscription, NestJS BFF, FastAPI + Gin APIs, and online governance with Datadog / Sentry. I love closing the loop from design → ship → observe.
@@ -155,17 +155,17 @@ Started as a frontend engineer (React / TypeScript), then grew into fullstack & 
 
 ## 🔗 &nbsp;Social Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheFirstSunday)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://thefirstsunday.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sundaydev-arch)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sundaydev.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhaonan266366@gmail.com)
 
 <br><br>
 
 <div align="center">
 
-  <img src="https://ghreadmestats-nu.vercel.app/api?username=TheFirstSunday&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&show=prs_merged" height="150" alt="stats graph"/>
+  <img src="https://ghreadmestats-nu.vercel.app/api?username=sundaydev-arch&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&show=prs_merged" height="150" alt="stats graph"/>
 
-  <img src="https://ghreadmestats-nu.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&card_height=150&langs_count=5&theme=dracula&hide_border=false&username=TheFirstSunday" height="150" alt="lang graph" />
+  <img src="https://ghreadmestats-nu.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&card_height=150&langs_count=5&theme=dracula&hide_border=false&username=sundaydev-arch" height="150" alt="lang graph" />
 
 </div>
 
@@ -176,9 +176,9 @@ Started as a frontend engineer (React / TypeScript), then grew into fullstack & 
 ###
 
 <p align="center">
-  <img width="750" alt="contribution snake" src="https://raw.githubusercontent.com/TheFirstSunday/TheFirstSunday/output/github-contribution-grid-snake-dark.svg">
+  <img width="750" alt="contribution snake" src="https://raw.githubusercontent.com/sundaydev-arch/sundaydev-arch/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <!---
-TheFirstSunday/TheFirstSunday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sundaydev-arch/sundaydev-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
